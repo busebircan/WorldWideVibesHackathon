@@ -1,5 +1,7 @@
 # CityPulse Montgomery
 
+**[Access Live Project Here](https://citypulse-montgomery-421382570350.us-central1.run.app/)**
+
 CityPulse Montgomery is a real-time civic intelligence dashboard that aggregates public sentiment about city infrastructure, construction projects, and community concerns in Montgomery, AL. It scrapes live data from 5+ sources (Google News RSS, Reddit, YouTube, local news outlets like AL.com, WSFA, and Montgomery Advertiser), runs AI-powered sentiment analysis and topic extraction via Gemini, and presents an interactive map-based dashboard where residents and city officials can see what people are saying about specific projects, neighborhoods, and civic topics.
 
 ## Key features:
@@ -11,3 +13,7 @@ CityPulse Montgomery is a real-time civic intelligence dashboard that aggregates
 
 ## Challenge track:
 Civic Access & Community Communication — the project directly matches "scrape live city updates, power resident-facing chatbots, and track sentiment" from the track description. It also touches Smart Cities/Infrastructure through its construction project tracking.
+
+---
+
+> **Note:** Full source code and technical documentation are currently being prepared and will be published to this repository shortly.
