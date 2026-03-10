@@ -18,6 +18,8 @@ CityPulse Montgomery is a real-time civic intelligence dashboard that aggregates
 
 **Civic Access & Community Communication** — the project directly matches "scrape live city updates, power resident-facing chatbots, and track sentiment" from the track description. It also touches Smart Cities/Infrastructure through its construction project tracking.
 
+Submitted to the [WorldWide Vibes Hackathon](https://academy.genai.works/hackathon).
+
 ---
 
 ## Important Notice for Reviewers & Visitors
