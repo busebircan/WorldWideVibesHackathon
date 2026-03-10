@@ -17,3 +17,7 @@ Civic Access & Community Communication — the project directly matches "scrape 
 ---
 
 > **Note:** Full source code and technical documentation are currently being prepared and will be published to this repository shortly.
+
+## Important Notice for Reviewers & Visitors
+
+> **Please avoid repeatedly refreshing or triggering data updates within the live dashboard.** This project is deployed on the **Google Cloud free tier** and relies on **Google AI (Gemini)** for sentiment analysis and natural language processing, as well as **Bright Data** web scraping credits generously provided for the hackathon. All of these services operate under strict usage quotas. Excessive data refresh requests may exhaust available credits and render the live demo inaccessible for other reviewers. We appreciate your understanding and cooperation in helping keep the demo available throughout the evaluation period.
