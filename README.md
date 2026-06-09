@@ -28,6 +28,9 @@ Submitted to the [WorldWide Vibes Hackathon](https://academy.genai.works/hackath
 
 **[Access Live Project Here](https://citypulse-montgomery-421382570350.us-central1.run.app/)**
 
+If the live demo is not accesible anymore, this is likely due to provided free tier services have been depreciated, please refer to the video demo to see the project.
+
 ---
 
 > **Note:** Full source code and technical documentation are currently being prepared and will be published to this repository shortly.
+> If the live demo is not accesible anymore, this is likely due to provided free tier services have been depreciated, please refer to the video demo to see the project.
